@@ -14,7 +14,7 @@ class _SamplegitactionState extends State<Samplegitaction> {
       body: Column(
         children: [
           Text("First push to git"),
-          Text("Second push to git")
+          Text("Second push to git [i changed this cod the i push without action]")
         ],
       ),
     );
