@@ -13,7 +13,8 @@ class _SamplegitactionState extends State<Samplegitaction> {
     return Scaffold(
       body: Column(
         children: [
-          Text("First push to git")
+          Text("First push to git"),
+          Text("Second push to git")
         ],
       ),
     );
